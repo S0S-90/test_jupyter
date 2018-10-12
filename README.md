@@ -1,3 +1,4 @@
 # test_jupyter
 
-This is a repo to test jupyter notebook. To use it in an interactive manner you can open it on MyBinder: https://hub.mybinder.org/user/s0s-90-test_jupyter-ytcf1c7i/tree
+This is a repo to test jupyter notebook. To use it in an interactive manner you can open it on MyBinder: 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/S0S-90/test_jupyter/master)
